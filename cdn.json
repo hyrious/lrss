@@ -1,4 +1,4 @@
 {
   "axios": "https://cdnjs.cloudflare.com/ajax/libs/axios/0.18.0/axios.js",
-  "localforage": "https://cdnjs.cloudflare.com/ajax/libs/localforage/1.7.2/localforage.js"
+  "localforage": "https://cdnjs.cloudflare.com/ajax/libs/localforage/1.7.2/localforage.js",
 }
